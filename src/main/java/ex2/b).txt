@@ -1,0 +1,2 @@
+O métudo é deterministico.
+A complexidade é O(n log(n))

@@ -1,0 +1,1 @@
+Converte um inteiro em binario.
